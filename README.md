@@ -15,13 +15,14 @@ A full-stack web application that allows users to post jobs, update job statuses
 **Frontend:**
 - React.js
 - React Router
-- Styled Components (or CSS Modules)
-- Axios
+- Styled Components
+- CSS Animations
+
 
 **Backend:**
 - Node.js
 - Express.js
-- MongoDB Atlas (Mongoose ODM)
+- MongoDB Atlas 
 
 **Deployment:**
 - Frontend: Vercel
