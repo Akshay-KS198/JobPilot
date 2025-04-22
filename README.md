@@ -5,10 +5,11 @@ A full-stack web application that allows users to post jobs, update job statuses
 ## 🚀 Features
 
 - Post new job openings
-- Update job status (e.g., Open, In Progress, Closed)
+- Update job status (e.g., Interview, Offer, Rejected)
 - View a list of all jobs
-- Filter/search jobs by status or title
-- Responsive UI for desktop and mobile
+- Edit the posted jobs by status
+- Delete the job application according to the requirement
+  
 
 ## 🛠 Tech Stack
 
